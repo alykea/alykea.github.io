@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Bike Share Analysis](/sample_page)
+[Bike Share Analysis](https://github.com/alykea/Bike_Share_Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
