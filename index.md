@@ -9,7 +9,7 @@
 
 ---
 
-
+[Airbnb Average Prices in Clark County](https://github.com/alykea/Airbnb_Clark_County)
 
 
 
