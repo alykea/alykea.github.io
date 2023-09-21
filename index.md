@@ -5,13 +5,13 @@
 ### Case Studies
 
 [Bike Share Analysis](https://github.com/alykea/Bike_Share_Analysis)
-<p>
+<br>
 <img src="images/bike_share_analysis_thumbnail.png?raw=true"/>
 
 ---
-
+<br>
 [Airbnb Average Prices in Clark County](https://github.com/alykea/Airbnb_Clark_County)
-<p>
+<br>
 <img src="https://github.com/alykea/alykea.github.io/blob/master/images/cover.png?raw=true"/>
 
 
