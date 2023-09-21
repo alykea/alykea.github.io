@@ -9,9 +9,8 @@
 <img src="images/bike_share_analysis_thumbnail.png?raw=true"/>
 
 ---
-<br />
 [Airbnb Average Prices in Clark County](https://github.com/alykea/Airbnb_Clark_County)
-<br />
+<br>
 <img src="https://github.com/alykea/alykea.github.io/blob/master/images/cover.png?raw=true"/>
 
 
