@@ -18,6 +18,10 @@
 
 <img src="https://github.com/alykea/alykea.github.io/blob/master/images/fda_cover.png?raw=true"/>
 
+---
+#### [Human Resources Data](https://github.com/alykea/Human_Resources_Data_Analysis)
+
+<img src="https://github.com/alykea/alykea.github.io/blob/master/images/hr%20cover.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
