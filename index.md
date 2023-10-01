@@ -11,7 +11,7 @@
 ---
 #### [Bike Share Analysis](https://github.com/alykea/Bike_Share_Analysis)
 
-<img src="images/bike_share_analysis_thumbnail.png?raw=true"/>
+<img src="https://github.com/alykea/alykea.github.io/blob/master/images/bike%20share%20analysis%20cover.png?raw=true"/>
 
 ---
 #### [FDA Recalls 2003-2022](https://github.com/alykea/FDA_Recalls_2003_to_2022)
